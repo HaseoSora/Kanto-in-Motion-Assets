@@ -1,0 +1,22 @@
+{
+  "id": "kanto_in_motion_assets",
+  "name": "Kanto in Motion Assets",
+  "version": "1.0.0",
+  "api": 2,
+  "entry": "main.lua",
+  "profile": "content",
+  "games": [
+    "gen1",
+    "gen2",
+    "gen3"
+  ],
+  "game_version": "0.0.0-dev || >=0.1.69 <3.0.0",
+  "category": "ART",
+  "priority": 90,
+  "dependencies": [],
+  "optional_dependencies": [],
+  "conflicts": [],
+  "affects_link": false,
+  "description": "Shared HD Pokemon and battle background assets for Kanto in Motion.",
+  "github": "HaseoSora/Kanto-in-Motion-Assets"
+}
